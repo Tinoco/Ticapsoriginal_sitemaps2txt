@@ -4,9 +4,6 @@ from tqdm import tqdm
 # IDENTIFY LARGE XML FILE
 import advertools as adv
 
-# REQUEST TO GET RESPONSES
-import requests
-
 # INDEXING YOUR LARGE SITEMAPS
 sitemap = adv.sitemap_to_df("https://ticapsoriginal.com/static/sitemaps1.xml")
 
