@@ -41,3 +41,6 @@ Large Sitemaps.xml 2 sitemaps.txt Converter
 
 * [`0% code plagiarism detected`](https://github.com/blingenf/copydetect)
 
+## about:
+* code and resource used in [`Ticapsoriginal`](https://ticapsoriginal.com)
+
