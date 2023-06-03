@@ -22,6 +22,10 @@ Large Sitemaps.xml 2 sitemaps.txt Converter
 <pre><code>pip install tqdm
 </code></pre>
 
+## Install urllib parsing url data: 
+<pre><code>pip install urllib3
+</code></pre>
+
 ## Install advertools to read large url data: 
 <pre><code>pip install advertools
 </code></pre>
